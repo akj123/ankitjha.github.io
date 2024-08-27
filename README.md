@@ -1,12 +1,10 @@
 # Data Scientist
-[Download Resume](https://drive.google.com/file/d/1csc37EMgbXlWUfir31wk2WwLizJPxbyC/view?usp=drive_link)  [email me](ankitj53@gmail.com)
+[Download Resume](https://drive.google.com/file/d/1csc37EMgbXlWUfir31wk2WwLizJPxbyC/view?usp=drive_link)  
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education	 			        		
+- B. Tech , Electronics & Communication Engineering | Manipal Institute of Technology , Manipa  (_2015 - 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
